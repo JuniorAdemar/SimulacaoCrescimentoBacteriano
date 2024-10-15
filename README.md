@@ -1,1 +1,3 @@
 # SimulacaoCrescimentoBacteriano
+Nome: Ademar Simon Júnior
+Instruções de uso: ...
