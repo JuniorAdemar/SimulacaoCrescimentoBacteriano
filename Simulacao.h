@@ -1,5 +1,5 @@
-void innitialMenu();
+bool innitialMenu();
 int growthSimulationMain();
 unsigned int ambienceConditionDraw(int *currentPopulation);
 void printAmbienceCondition(unsigned int ans);
-void printCurrentPopulation(int *pop, int index);
+void printCurrentPopulation(int *pop, int index, bool lastCycleControl);
